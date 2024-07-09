@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="Test">
+        <classes>
+            <class name="com.workable.tests.LoginTest"/>
+            <class name="com.workable.tests.UserManagementTest"/>
+            <class name="com.workable.tests.ProjectManagementTest"/>
+            <class name="com.workable.tests.TaskManagementTest"/>
+            <class name="com.workable.tests.TaskDBOperationTest"/>
+        </classes>
+    </test>
+</suite>
