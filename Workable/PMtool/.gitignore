@@ -1,4 +1,4 @@
-target/
-test-output/
-.idea/
-application.log
+/target/
+/test-output/
+/.idea/
+/application.log
